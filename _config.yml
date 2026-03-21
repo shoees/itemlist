@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-theme: Type-on-Strap
+theme: just-the-docs
 markdown: kramdown
 sass:
   style: compressed
