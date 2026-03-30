@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-theme: Slate
+theme: jekyll-theme-slate
 markdown: kramdown
 sass:
   style: compressed
