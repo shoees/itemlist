@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-remote_theme: Type-on-Strap
+theme: Slate
 markdown: kramdown
 sass:
   style: compressed
